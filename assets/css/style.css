@@ -5,7 +5,7 @@ html{
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #aac995;
+    background-color: #6d597a;
 }
 
 /* splash screen css starts here  */
@@ -20,29 +20,29 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #0c2793!important;
+    background-color: #f2e9e4!important;
 }
 
 .navbar-brand{
-    font-family: 'Sansita Swashed', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 2rem;
-    color: #cfe715!important;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #5f6368!important;
 }
 
 .nav-link{
-    color: #adab85!important;
+    color: #5f6368!important;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
 .nav-link:hover{
-    background-color: #2d1818;
+    background-color: #f3f1f1;
 }
 /* navbar css ends here  */
 
 /* here content css starts here  */
 .hero-content{
     height: 100vh;
-    background-color: #d87b33;
+    background-color: #355070;
     color: #ffffff;
     padding: 3rem;
     border-bottom-left-radius: 45rem;
@@ -62,10 +62,10 @@ body{
 }
 
 .get-started{
-    border-radius: 2rem;
+    border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color: #ffffff;
+    background-color: #fff;
     color: #039be5!important;
     transition: 0.3s;
 }
@@ -73,7 +73,7 @@ body{
 .get-started:hover{
     text-decoration: none;
     background-color: #bfdff0;
-
+    
 }
 /* here content css starts here  */
 
